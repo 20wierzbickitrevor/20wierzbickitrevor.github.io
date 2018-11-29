@@ -20,6 +20,11 @@
     		<div class="blurb">
         		<h1>Hi there, My name is Trevor!</h1>
 				<p>I am your worst nightmare! <a href="#">Read more about my life...</a></p>
+				<p>1. Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people.</a><p>
+				<p>2. Linus Torvalds</a><p>
+				<p>3.  a network hardware device for connecting multiple Ethernet devices together and making them act as a single network segment.</a><p>
+				<p>4. A git repository contains, among other things, the following: A set of commit objects. A set of references to commit objects, called heads.</a><p>
+				<p>5. it could be a very useful resource for organizing and testing code.</a><p>
     		</div>
 		
 		<footer>
